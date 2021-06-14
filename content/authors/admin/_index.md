@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ysael Desage
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student and Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: McGill University
+  url: https://www.mcgill.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Resourceful application-oriented consultant, with a significant research background and various industrial experiences. Highly-adaptable, my focus revolves around problem-solving through the deployment of valuable solutions ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Control
+- Data Analytics
+- Machine Learning
+- Modelinb
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science and Electrical Engineering
+    institution: McGill University
+    year: 2023
+  - course: M.Sc. in Computer Science (Operations Research)
+    institution: Université de Montréal
+    year: 2020
+  - course: BSc in Physics (Astrophysics)
+    institution: Université de Montréal
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,10 +53,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ConsultantYD
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ysaeldesage/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +72,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Resourceful application-oriented consultant, with a significant research background and various industrial experiences. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, control and modeling expertise to deliver innovative, performing and rigorous results.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
