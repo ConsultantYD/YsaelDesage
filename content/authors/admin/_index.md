@@ -20,9 +20,9 @@ bio: Resourceful application-oriented consultant, with a significant research ba
 interests:
 - Artificial Intelligence
 - Control
-- Data Analytics
-- Machine Learning
-- Modelinb
+- Analytics
+- Operations Research
+- Modeling
 
 # Education to show in About widget
 education:
