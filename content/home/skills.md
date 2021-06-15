@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 
   icon: cogs
-  icon_pack: fab
+  icon_pack: fas
   name: Problem Solving
 - description: # x%
   icon: users
