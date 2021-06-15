@@ -22,19 +22,19 @@ interests:
 - Analytics
 - Automation
 - Control
-- Operations Research
 - Modeling
+- Operations Research
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science and Electrical Engineering
+  - course: PhD - Computer Science and Electrical Engineering
     institution: McGill University
     year: 2023
-  - course: M.Sc. in Computer Science (Operations Research)
+  - course: M.Sc. - Computer Science (Operations Research)
     institution: Université de Montréal
     year: 2020
-  - course: BSc in Physics (Astrophysics)
+  - course: B.Sc - Physics (Astrophysics)
     institution: Université de Montréal
     year: 2018
 
