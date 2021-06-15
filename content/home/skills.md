@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills and Attributes
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,33 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Python
+- description: 80%
+  icon: users
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Teamwork
+- description: 80%
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Photography
+  name: Teaching
+- description: 90%
+  icon: project-diagram
+  icon_pack: fas
+  name: Machine Learning
+- description: 60%
+  icon: tasks
+  icon_pack: fas
+  name: Project Management
+- description: 80%
+  icon: chess-knight
+  icon_pack: fas
+  name: Strategy
+- description: 90%
+  icon: lightbulb
+  icon_pack: far
+  name: Innovation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
