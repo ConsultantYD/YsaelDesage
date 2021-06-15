@@ -44,7 +44,7 @@ experience:
     location: Montreal (QC)
     date_start: '2017-05-01'
     date_end: '2019-05-31'
-    description: Applied R&D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
+    description: Applied R D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
  
   - title: Research Student
     company: Awn Nanotech
