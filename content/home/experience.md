@@ -33,13 +33,14 @@ experience:
         
         <strong>Co-Research</strong> 
         
-        * Multiagent control for Grid-interactive Efficient Buildings (GEB)
+        * Multiagent control for Swarms of Grid-interactive Efficient Buildings (GEB)
         * Autonomous control in smart buildings: a deep reinforcement learning approach
         
-        Applied R&D | Development and Deployment:
+        <strong> Applied R&D</strong> | Development and Deployment:
         
-        * Deep learning prediction infratructure
-        * Control infrastructure and algorithms
+        * Deep learning prediction pipeline
+        * Real-time global control optimization infrastructure
+        * Control algorithms
         * Production scaling and automation
         
   - title: Co-Research and Engineering Internship
@@ -51,11 +52,11 @@ experience:
     date_end: '2019-05-31'
     description: |2-
     
-        Co-Research
+        <strong>Co-Research</strong>
         
         * Leveraging deep reinforcement learning on the smart grid
     
-        Internship deliverables: 
+        <strong>Internship deliverables</strong> 
         
         * Electrical demand forecast tools
         * Energy storage control and modeling
@@ -69,7 +70,9 @@ experience:
     date_start: '2018-01-01'
     date_end: '2018-05-31'
     description: |2-
-    Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
+    
+        <strong>Research</strong>
+        Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
 
 design:
   columns: '2'
