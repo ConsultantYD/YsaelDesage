@@ -76,4 +76,4 @@ Resourceful application-oriented consultant, with a significant research backgro
 
 My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, control and modeling expertise to deliver innovative, performing and rigorous results.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
