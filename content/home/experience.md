@@ -26,15 +26,15 @@ experience:
     company: BrainBox AI
     company_url: 'https://www.brainboxai.com'
     company_logo: brainbox
-    location: Montreal
+    location: Montreal (QC)
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
         
         <strong>Co-Research</strong> 
         
-        * Multiagent control for swarms of Grid-interactive Efficient Buildings (GEB)
-        * Autonomous control in smart buildings: a deep reinforcement learning approach
+        * [Multi-agent control for swarms of Grid-interactive Efficient Buildings (GEB)](https://www.energy.gov/eere/buildings/grid-interactive-efficient-buildings "Department of Energy's Reference") (in progress)
+        * [Autonomous control in smart buildings: a deep reinforcement learning approach](https://www.gerad.ca/fr/papers/G-2020-30 "Article")
         
         <strong> Applied R&D</strong> | Development and Deployment:
         
@@ -73,7 +73,7 @@ experience:
     
         <strong>Research</strong>
         
-        * Atmospheric water extraction - theoretical model development for water nucleation on a functionalized carbon nanotubes membrane.
+        Atmospheric water extraction - theoretical model development for water nucleation on a functionalized carbon nanotubes membrane.
 
 design:
   columns: '2'
