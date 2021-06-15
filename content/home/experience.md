@@ -50,7 +50,7 @@ experience:
   - title: Research Student
     company: Awn Nanotech
     company_url: ''
-    company_logo: org-x
+    company_logo: awn
     location: Montreal (QC)
     date_start: '2018-01-01'
     date_end: '2018-05-31'
