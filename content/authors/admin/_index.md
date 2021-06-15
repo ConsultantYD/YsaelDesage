@@ -17,7 +17,7 @@ organizations:
 bio: Resourceful application-oriented consultant, with a significant research background and various industrial experiences.
 
 # Interests to show in About widget
-interests:
+Specialties:
 - Artificial Intelligence
 - Control
 - Analytics
