@@ -34,7 +34,7 @@ experience:
         <strong>Co-Research</strong> 
         
         * [Multi-agent control for swarms of Grid-interactive Efficient Buildings (GEB)](https://www.energy.gov/eere/buildings/grid-interactive-efficient-buildings "Department of Energy's Reference") (in progress)
-        * [Autonomous control in smart buildings: a deep reinforcement learning approach](https://www.gerad.ca/fr/papers/G-2020-30 "Article")
+        * [Autonomous control in smart buildings: a deep reinforcement learning approach](https://www.gerad.ca/fr/papers/G-2020-30/view "Article")
         
         <strong> Applied R&D</strong> | Development and Deployment:
         
