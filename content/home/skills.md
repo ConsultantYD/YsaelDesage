@@ -28,12 +28,8 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
-- description: 90%
-  icon: project-diagram
-  icon_pack: fas
-  name: Machine Learning
 - description: 60%
-  icon: tasks
+  icon: project-diagram
   icon_pack: fas
   name: Project Management
 - description: 80%
