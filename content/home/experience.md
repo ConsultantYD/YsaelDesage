@@ -33,7 +33,7 @@ experience:
         
         <strong>Co-Research</strong> 
         
-        * Multiagent control for Swarms of Grid-interactive Efficient Buildings (GEB)
+        * Multiagent control for swarms of Grid-interactive Efficient Buildings (GEB)
         * Autonomous control in smart buildings: a deep reinforcement learning approach
         
         <strong> Applied R&D</strong> | Development and Deployment:
@@ -54,7 +54,7 @@ experience:
     
         <strong>Co-Research</strong>
         
-        * Leveraging deep reinforcement learning on the smart grid
+        * [Leveraging deep reinforcement learning in the smart grid environment](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/25097 "Master's Thesis")
     
         <strong>Internship deliverables</strong> 
         
@@ -72,7 +72,8 @@ experience:
     description: |2-
     
         <strong>Research</strong>
-        Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
+        
+        * Atmospheric water extraction - theoretical model development for water nucleation on a functionalized carbon nanotubes membrane.
 
 design:
   columns: '2'
