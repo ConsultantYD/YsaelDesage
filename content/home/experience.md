@@ -45,7 +45,7 @@ experience:
         
   - title: Co-Research and Engineering Internship
     company: Sigma Energy Storage
-    company_url: ''
+    company_url: 'https://www.sdtc.ca/fr/companies/sigma-energy-storage-inc/'
     company_logo: sigma
     location: Montreal (QC)
     date_start: '2017-05-01'
@@ -64,7 +64,7 @@ experience:
     
   - title: Research Student
     company: Awn Nanotech
-    company_url: ''
+    company_url: 'http://awnnanotech.com'
     company_logo: awn
     location: Montreal (QC)
     date_start: '2018-01-01'
