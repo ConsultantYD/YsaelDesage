@@ -47,14 +47,15 @@ experience:
     description: |2-
         Applied R&D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
     
-#  - title: Research Student
-#    company: Awn Nanotech
-#    company_url: ''
-#    company_logo: awnnanotech
-#    location: Montreal (QC)
-#    date_start: '2018-01-01'
-#    date_end: '2018-05-31'
-#    description: Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
+  - title: Research Student
+    company: Awn Nanotech
+    company_url: ''
+    company_logo: org-x
+    location: Montreal (QC)
+    date_start: '2018-01-01'
+    date_end: '2018-05-31'
+    description: |2-
+    Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
 
 design:
   columns: '2'
