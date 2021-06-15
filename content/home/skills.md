@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: python
+  icon: cogs
   icon_pack: fab
-  name: Python
+  name: Problem Solving
 - description: # x%
   icon: users
   icon_pack: fas
@@ -40,6 +40,18 @@ feature:
   icon: lightbulb
   icon_pack: far
   name: Innovation
+- description: 
+  icon: comments
+  icon_pack: far
+  name: Communication
+- description: 
+  icon: file-contract
+  icon_pack: far
+  name: Administration
+- description: 
+  icon: arrows-alt
+  icon_pack: far
+  name: Flexibility
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
