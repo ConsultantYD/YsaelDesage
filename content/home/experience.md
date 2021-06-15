@@ -25,7 +25,7 @@ experience:
   - title: Consultant and Co-Research
     company: BrainBox AI
     company_url: 'https://www.brainboxai.com'
-    company_logo: org-gc
+    company_logo: brainboxai
     location: Montreal
     date_start: '2019-09-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Research Student
     company: Awn Nanotech
     company_url: ''
-    company_logo: org-x
+    company_logo: awnnanotech
     location: Montreal (QC)
     date_start: '2018-01-01'
     date_end: '2018-05-31'
