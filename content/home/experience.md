@@ -30,12 +30,17 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Automation
-        * Control
-        * Deployment
-        * Prediction
+        Co-Research 
+        
+        * Multiagent control for Grid-interactive Efficient Buildings (GEB)
+        * Autonomous control in smart buildings: a deep reinforcement learning approach
+        
+        Applied R&D | Development and Deployment:
+        
+        * Deep learning prediction infratructure
+        * Control infrastructure and algorithms
+        * Production scaling and automation
         
   - title: Co-Research and Engineering Internship
     company: Sigma Energy Storage
@@ -45,7 +50,16 @@ experience:
     date_start: '2017-05-01'
     date_end: '2019-05-31'
     description: |2-
-        Applied R&D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
+    
+        Co-Research
+        
+        * Leveraging deep reinforcement learning on the smart grid
+    
+        Internship deliverables: 
+        
+        * Electrical demand forecast tools
+        * Energy storage control and modeling
+        * Energy markets arbitraging.
     
   - title: Research Student
     company: Awn Nanotech
