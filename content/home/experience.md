@@ -46,7 +46,7 @@ experience:
   - title: Co-Research and Engineering Internship
     company: Sigma Energy Storage
     company_url: ''
-    company_logo: org-x
+    company_logo: sigma
     location: Montreal (QC)
     date_start: '2017-05-01'
     date_end: '2019-05-31'
