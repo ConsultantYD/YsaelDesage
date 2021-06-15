@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         
-        Co-Research 
+        <strong>Co-Research</strong> 
         
         * Multiagent control for Grid-interactive Efficient Buildings (GEB)
         * Autonomous control in smart buildings: a deep reinforcement learning approach
