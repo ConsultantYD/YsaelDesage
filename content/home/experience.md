@@ -37,14 +37,23 @@ experience:
         * Deployment
         * Prediction
         
-  - title: Co-Research and Engineering Internship
-    company: Sigma Energy Storage
-    company_url: ''
-    company_logo: org-x
-    location: Montreal (QC)
-    date_start: '2017-05-01'
-    date_end: '2019-05-31'
-    description: Applied R D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
+#  - title: Co-Research and Engineering Internship
+#    company: Sigma Energy Storage
+#    company_url: ''
+#    company_logo: org-x
+#    location: Montreal (QC)
+#    date_start: '2017-05-01'
+#    date_end: '2019-05-31'
+#    description: Applied R D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
+    
+#  - title: Research Student
+#    company: Awn Nanotech
+#    company_url: ''
+#    company_logo: awnnanotech
+#    location: Montreal (QC)
+#    date_start: '2018-01-01'
+#    date_end: '2018-05-31'
+#    description: Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon #nanotubes membrane.
 
 design:
   columns: '2'
