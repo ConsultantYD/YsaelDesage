@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Consultant and Co-Research
+    company: BrainBox AI
+    company_url: 'https://www.brainboxai.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Montreal
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Automation
+        * Control
+        * Deployment
+        * Prediction
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Co-Research and Engineering Internship
+    company: Sigma Energy Storage
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Montreal (QC)
+    date_start: '2017-05-01'
+    date_end: '2019-05-31'
+    description: Applied R&D: electrical demand forecasting, control, energy storage, energy markets and arbitraging.
+ 
+  - title: Research Student
+    company: Awn Nanotech
+    company_url: ''
+    company_logo: org-x
+    location: Montreal (QC)
+    date_start: '2018-01-01'
+    date_end: '2018-05-31'
+    description: Atmospheric water extraction: theoretical model development for water nucleation on a functionalized carbon nanotubes membrane.
 
 design:
   columns: '2'
