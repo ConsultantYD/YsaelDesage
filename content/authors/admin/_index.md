@@ -19,8 +19,9 @@ bio: Resourceful application-oriented consultant, with a significant research ba
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Control
 - Analytics
+- Automation
+- Control
 - Operations Research
 - Modeling
 
