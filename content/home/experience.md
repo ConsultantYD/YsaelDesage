@@ -25,7 +25,7 @@ experience:
   - title: Consultant and Co-Research
     company: BrainBox AI
     company_url: 'https://www.brainboxai.com'
-    company_logo: brainboxai
+    company_logo: brainbox
     location: Montreal
     date_start: '2019-09-01'
     date_end: ''
