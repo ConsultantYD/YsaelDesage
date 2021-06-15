@@ -20,23 +20,23 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 80%
+- description: # x%
   icon: users
   icon_pack: fas
   name: Teamwork
-- description: 80%
+- description: 
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
-- description: 60%
+- description: 
   icon: project-diagram
   icon_pack: fas
   name: Project Management
-- description: 80%
+- description: 
   icon: chess-knight
   icon_pack: fas
   name: Strategy
-- description: 90%
+- description: 
   icon: lightbulb
   icon_pack: far
   name: Innovation
