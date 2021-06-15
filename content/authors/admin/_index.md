@@ -14,7 +14,7 @@ organizations:
   url: https://www.mcgill.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: Resourceful application-oriented consultant, with a significant research background and various industrial experiences. Highly-adaptable, my focus revolves around problem-solving through the deployment of valuable solutions ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
+bio: Resourceful application-oriented consultant, with a significant research background and various industrial experiences.
 
 # Interests to show in About widget
 interests:
@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ysael.desage@me.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
