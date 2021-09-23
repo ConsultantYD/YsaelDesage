@@ -32,7 +32,7 @@ image:
   focal_point: Right
 
 links:
-- icon: etsy
+- icon: hubspot
   icon_pack: fab
   name: View
   url: https://www.euro-online.org/conf/europt2021/treat_abstract?paperid=396

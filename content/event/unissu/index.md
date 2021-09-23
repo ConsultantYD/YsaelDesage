@@ -33,7 +33,7 @@ image:
 
 links:
 links:
-- icon: etsy
+- icon: hubspot
   icon_pack: fab
   name: View
   url: https://events.unissu.com/reconnect-january-2021/session/387/ai-driven-hvac-optimization-the-next-disruptive-innovation-in-real-estate
