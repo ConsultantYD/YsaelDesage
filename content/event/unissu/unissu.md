@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: AI-Driven HVAC Optimization - The Next Disruptive Innovation in Real Estate
 
 event: Wowchemy Conference
 event_url: https://example.org
