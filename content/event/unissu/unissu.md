@@ -5,15 +5,10 @@ event: Unissu
 event_url: https://events.unissu.com/reconnect-january-2021/session/387/ai-driven-hvac-optimization-the-next-disruptive-innovation-in-real-estate
 
 location: Virtual
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+address: ""
 
-summary: Overview of pre-emptive HVAC optimization using deep learning prediction models.
-abstract: "In many cases, HVAC structures are designed as fixed systems or programmed for a fairly static environment, even though factors like weather and occupancy are fluid and dynamic. AI is revolutionizing building management by pivoting to a pre-emptive approach.
+summary: Pre-emptive HVAC optimization using deep learning prediction models.
+abstract: "In many cases, HVAC structures are designed as fixed systems or programmed for a fairly static environment, even though factors like weather and occupancy are fluid and dynamic. AI is revolutionizing building management by pivoting to a pre-emptive approach. 
 
 In this session, Jean-Simon Venne, CTO, Vasken Dermardiros, AI Manager, and Ysael Desage, AI Researcher at BrainBox AI, will discuss our end-to-end process overview with a focus on its deep learning prediction model and neural networks."
 
