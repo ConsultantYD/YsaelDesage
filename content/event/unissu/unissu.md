@@ -21,8 +21,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-01-07T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Ysael Desage, Vasken Dermardiros, Jean-Simon Venne]
+tags: [Prediction, Deep Learning, HVAC, Optimization]
 
 # Is this a featured talk? (true/false)
 featured: false
