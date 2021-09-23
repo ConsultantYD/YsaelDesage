@@ -7,7 +7,7 @@ event_url: http://europt2021.recherche.enac.fr
 location: Virtual
 address: ""
 
-summary: 
+summary: Optimal control strategies based on deep reinforcement learning and operations research.
 abstract: "While research in the field of artificial intelligence has been booming in recent year, especially in the field of machine learning, most applications are still in their infancy.
 
 In this perspective, we propose a hybrid innovative approach combining the performance and neologism of deep reinforcement learning with the reliable empirical and proven application framework of classical operations research. More concretely, we detail the proposed methodology before presenting the results on different problems and sub instances related to the power grid and the optimization of its actors."
@@ -32,8 +32,12 @@ image:
   focal_point: Right
 
 links:
+- icon: etsy
+  icon_pack: fab
+  name: View
+  url: https://www.euro-online.org/conf/europt2021/treat_abstract?paperid=396
 url_code: ""
-url_pdf: "https://www.euro-online.org/conf/europt2021/treat_abstract?paperid=396"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
