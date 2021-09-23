@@ -39,7 +39,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://events.unissu.com/reconnect-january-2021/session/387/ai-driven-hvac-optimization-the-next-disruptive-innovation-in-real-estate"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
