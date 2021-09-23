@@ -27,8 +27,8 @@ tags: [Prediction, Deep Learning, HVAC, Optimization]
 # Is this a featured talk? (true/false)
 featured: false
 
-image: tn.png
-
+image:
+  caption: ""
   focal_point: Right
 
 links:
