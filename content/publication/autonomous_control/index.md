@@ -32,7 +32,7 @@ abstract: Deep learning has redefined modern standards and performance in severa
 # Summary. An optional shortened abstract.
 summary: Deployment of deep reinforcement learning control in smart buildings.
 
-tags: [HVAC, Energy, Control, Power, Smart Grid, Optimization, Deep Learning, Reinforcement LEarning]
+tags: [HVAC, Energy, Control, Power, Smart Grid, Optimization, Deep Learning, Reinforcement Learning, Multiobjective]
 
 # Display this page in the Featured widget?
 featured: true
