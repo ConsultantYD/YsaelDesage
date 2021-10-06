@@ -1,7 +1,7 @@
 ---
 title: United Nations Climate Change Conference UK 2021 
 
-event: COP26 - Tech for Our Planet
+event: COP26 Tech for Our Planet
 event_url: https://together-for-our-planet.ukcop26.org/tech-for-our-planet/
 
 location: Glasgow
