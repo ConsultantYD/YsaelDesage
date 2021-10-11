@@ -20,7 +20,7 @@ slides: ""
 Computer vision (CV) is the science allowing computers and software systems to gain high-level understanding from digital images or videos. While a wide variety of tasks span from this discipline, they usually all share the general end goal of extracting specific information that will be useful in a broader production process. 
 
 
-For this project, we focused on the object recognition task, which refers to the capability to locate and identify specific objects. For SN Hawaii and Waterman5, we developed a water safety computer vision system, able to locate key entities on live drone footage, such as persons, dangerous currents, surfers and more.
+For this project, we focused on the object recognition task, which refers to the capability to locate and identify specific objects. With SN Hawaii and Waterman5, we developed a water safety computer vision system, able to locate key entities on live drone footage, such as persons, dangerous currents, surfers and more.
 
 
 {{< video src="ai_ocean_safety.mp4" controls="yes" >}}
@@ -30,3 +30,5 @@ Modern computer vision systems rely almost exclusively on deep neural networks (
 
 
 More concretely, instead of training a new model from scratch, with many labeled examples, we started from an existing state-of-the-art research CV model that was already trained for months on a gigantic dataset and accelerated with multiple GPUs. Our goal was to keep all the neural network’s learned treatment and analysis capabilities, but to change it’s end goal to predict our objects instead of the ones it was originally designed to. By doing so, by providing only a handful of annotated images specific to our application, we were able to achieve the performance shown in the video above. Even better ! The training only took a few hours, on an every-day laptop with no GPU. Imagine the possibilities.
+
+{{< figure src="labeling.png" caption="Labeling process to train the computer vision system. Only a handful of these examples are necessary to obtain the performance shown above." numbered="false" >}}
