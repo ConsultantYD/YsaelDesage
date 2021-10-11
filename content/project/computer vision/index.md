@@ -17,6 +17,8 @@ external_link: ""
 slides: ""
 ---
 
+{{< video src="ai_ocean_safety_preliminary.mp4" controls="yes" >}}
+
 Computer vision (CV) is the science allowing computers and software systems to gain high-level understanding from digital images or videos. While a wide variety of tasks span from this discipline, they usually all share the general end goal of extracting specific information that will be useful in a broader production process. 
 
 
