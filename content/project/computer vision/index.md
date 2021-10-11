@@ -17,10 +17,9 @@ external_link: ""
 slides: ""
 ---
 
-{{< video src="ai_ocean_safety_preliminary.mp4" controls="yes" >}}
-
 Computer vision (CV) is the science allowing computers and software systems to gain high-level understanding from digital images or videos. While a wide variety of tasks span from this discipline, they usually all share the general end goal of extracting specific information that will be useful in a broader production process. 
 
+{{< video src="ai_ocean_safety.mp4" controls="yes" >}}
 
 For this project, we focused on the object recognition task, which refers to the capability to locate and identify specific objects. For SN Hawaii and Waterman5, we developed a water safety computer vision system, able to locate key entities on live drone footage, such as persons, dangerous currents, surfers and more.
 
