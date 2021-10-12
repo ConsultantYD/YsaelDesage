@@ -1,10 +1,10 @@
 ---
 title: Water Safety with Computer Vision
-summary: Computer vision system able to locate and identify specific entities on live drone footage, such as persons, dangerous currents and more.
+summary: Computer vision system able to locate and identify specific entities on live drone footage, such as people, dangerous currents and more.
 tags:
 - Deep Learning
 - Computer Vision
-date: "2021-09-09T08:00:00Z"
+date: "2021-10-12T08:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
