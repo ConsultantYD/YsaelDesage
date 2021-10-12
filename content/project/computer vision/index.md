@@ -23,7 +23,7 @@ Computer vision (CV) is the science allowing computers and software systems to g
 For this project, focus is given to the object recognition task, which refers to the capability to locate and identify specific objects. With SN Hawaii and Waterman5, we developed a water safety computer vision system, able to locate key entities on live drone footage, such as people, dangerous currents, surfers and more.
 
 
-{{< video src="ai_ocean_safety.mp4" controls="yes" >}}
+{{< video src="ai_ocean_safety.mp4" controls="no" >}}
 
 
 Modern computer vision systems rely almost exclusively on deep neural networks (deep learning) due to their high performance which stems from their inherent capability to learn and generalize well from big datasets. Whereas traditional deep learning systems require millions of identified examples and heavy computing resources to reach desirable production performance, these major drawbacks were avoided in the present case by using transfer learning. Transfer learning is a research branch of artificial intelligence which consists in exploiting learned knowledge from an existing system to apply (transfer) it in a new (connex) setting. 
