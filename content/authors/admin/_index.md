@@ -6,7 +6,7 @@ title: Ysael Desage
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and Consultant
+role: PhD Student and Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.mcgill.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: Resourceful application-oriented consultant, with a significant research background and various industrial experiences.
+bio: Resourceful application-oriented developer, with a significant research background and various industrial experiences.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Resourceful application-oriented consultant, with a significant research background and various industrial experiences. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
+Resourceful application-oriented developer, with a significant research background and various industrial experiences. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
 
 My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, control and modeling expertise to deliver innovative, performing and rigorous results.
 
