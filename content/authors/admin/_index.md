@@ -6,7 +6,7 @@ title: Ysael Desage
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and Developer
+role: PhD Student and Scientific Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.mcgill.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: Resourceful application-oriented developer, with a significant research background and various industrial experiences.
+bio: Resourceful application-oriented developer, with a significant research background.
 
 # Interests to show in About widget
 interests:
@@ -22,6 +22,7 @@ interests:
 - Analytics
 - Automation
 - Control
+- Data Science
 - Modeling
 - Operations Research
 
@@ -73,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-Resourceful application-oriented developer, with a significant research background and various industrial experiences. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
+Application-oriented scientific developer with a significant research background. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
 
-My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, control and modeling expertise to deliver innovative, performing and rigorous results.
+My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, data science and modeling expertise to deliver innovative, performing and rigorous results.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
