@@ -33,7 +33,7 @@ links:
 - icon: hubspot
   icon_pack: fab
   name: View
-  url: https://together-for-our-planet.ukcop26.org/tech-for-our-planet/
+  url: https://share.streamlit.io/brainboxailabs/cop26dashboard/main/app.py
 url_code: ""
 url_pdf: ""
 url_slides: ""

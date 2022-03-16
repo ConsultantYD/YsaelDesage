@@ -74,7 +74,7 @@ email: ""
 highlight_name: false
 ---
 
-Application-oriented scientific developer with a significant research background. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
+Application-oriented scientific engineer with a significant research background. Highly adaptable, my focus revolves around problem-solving through the deployment of valuable solutions, ranging from fast off-the-shelf based deliverables, to custom cutting-edge approaches and infrastructures.
 
 My background in physics provides me with a solid mathematical understanding and analytical intuition, blending holistically with artificial intelligence, operations research, data science and modeling expertise to deliver innovative, performing and rigorous results.
 
